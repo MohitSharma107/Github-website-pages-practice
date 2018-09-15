@@ -1,0 +1,13 @@
+{
+  "name": "github_pages",
+  "version": "",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "homepage": "https://MohitSharma107.github.io/Github-Pages",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+
+  
+}
